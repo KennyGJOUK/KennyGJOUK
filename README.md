@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Kenny. I'm a junior at ECNU.
+
+🌱 **I’m currently learning :**
+
+1. Database
+2. C++
+3. Cloud computing
+
+🔭 **I’m currently working on UDS**
 
 <!--
 **KennyGJOUK/KennyGJOUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
